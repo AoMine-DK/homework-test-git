@@ -1,0 +1,14 @@
+/*header {*/
+/*    text-align: center;*/
+/*    border-width: 2px;*/
+/*    border-style: solid;*/
+/*    background-color: darkgray;*/
+/*}*/
+
+.headerTitle {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+}
